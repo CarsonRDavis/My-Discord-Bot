@@ -92,6 +92,6 @@ function displayTime(receivedMessage){
     receivedMessage.channel.send(date + "\n" + time)
 }
 
-token = "NTMxMjk0ODc1OTc1NDE3ODg1.D09XFQ.oy8kyAcvaPSTP2C26Yc7G5IOPNg"
+token = "token"
 
 client.login(token)
